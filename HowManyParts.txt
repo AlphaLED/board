@@ -1,0 +1,53 @@
+Resistors:
+1x Light 100k~200k C125631
+6x 1M      C103216
+4x 40.2k   C12447
+8x 10k     C103210
+4x 5.1k    C2907114
+1x 4.7k    C3017722
+1x 1.2k    C2907081
+1x 1k      C3016283
+1x 100     C3017758
+2x 90.9    C101232
+1x 24      C3017772
+
+Capacitors:
+4x 22uF    C98190
+6x 10uF    C1713
+5x 0.1uF   C344189
+
+Inductors:
+2x 22uH    C2942298
+
+Diodes:
+2x Blue      C965807
+1x White     C965808
+2x SS86C     C382823
+1x BAT54C    C2992451
+2x SD103AWS  C513472
+
+MOSFET Transistors:
+2x G30N03D3  C840054
+5x BSS138    C347484
+2x SI2303    C545575
+1x AO4407C   C469397
+
+Logic boards:
+1x TP4056    C7473158
+1x DW01A     C351410
+2x MT3608    C2932326
+1x ESP32-C3  C2934560
+1x AMS1117   C5181460
+1x DS18B20   C5379069
+
+Connectors:
+1x USB-C     C2927038
+1x 4-pin     C541858
+1x 3-pin     C429954
+1x Push boot C2685195
+1x battery   C5290176
+
+Switches:
+1x main      C2829488
+1x NC power  C5299502
+1x Push boot C5359331
