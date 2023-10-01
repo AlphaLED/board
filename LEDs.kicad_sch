@@ -6,8 +6,8 @@
 
   (title_block
     (title "LEDs")
-    (date "2023-09-03")
-    (rev "0.1")
+    (date "2023-10-01")
+    (rev "23.10.01")
     (company "LukeMech")
   )
 
@@ -8401,8 +8401,8 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 09e8f1bb-5534-45c2-bb0a-f0adf088fe99))
-    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1bac))
-    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1bac))
+    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1bad))
+    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1bad))
     (pin "4" (uuid bc8f5c49-876e-4117-9322-3368a63500a8))
     (instances
       (project "LEDs"
