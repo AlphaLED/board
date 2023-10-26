@@ -1301,7 +1301,6 @@
     (property "Sheetname" "")
     (property "ki_description" "Mounting Hole without connection")
     (property "ki_keywords" "mounting hole")
-    (path "/f0260666-f1bd-47f0-8bc5-81f8d8c0ced2")
     (attr exclude_from_pos_files)
     (fp_text reference "H5" (at 0 -4.2) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -1624,7 +1623,6 @@
     (property "Sheetname" "")
     (property "ki_description" "Mounting Hole without connection")
     (property "ki_keywords" "mounting hole")
-    (path "/5d323b76-1812-4b59-834f-5f0c31e9978a")
     (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 0 -6.3) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -1764,7 +1762,6 @@
     (property "Sheetname" "")
     (property "ki_description" "Mounting Hole without connection")
     (property "ki_keywords" "mounting hole")
-    (path "/beaa951b-5e2f-4041-9493-15f7b47ed0cd")
     (attr exclude_from_pos_files)
     (fp_text reference "H4" (at 0 -6.3) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -5047,7 +5044,6 @@
     (property "Sheetname" "")
     (property "ki_description" "Mounting Hole without connection")
     (property "ki_keywords" "mounting hole")
-    (path "/9fa719ad-1d50-4496-a5af-d8e190480599")
     (attr exclude_from_pos_files)
     (fp_text reference "H1" (at 0 -6.3) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -5820,7 +5816,6 @@
     (property "Sheetname" "")
     (property "ki_description" "Mounting Hole without connection")
     (property "ki_keywords" "mounting hole")
-    (path "/5e352d60-ade6-4fc5-a2f2-039bc61588d0")
     (attr exclude_from_pos_files)
     (fp_text reference "H2" (at 0 -6.3) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))

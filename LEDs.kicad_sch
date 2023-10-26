@@ -7488,7 +7488,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 16.51 165.1 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
     (uuid 5d323b76-1812-4b59-834f-5f0c31e9978a)
     (property "Reference" "H3" (at 19.05 163.83 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7512,7 +7512,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 16.51 160.02 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
     (uuid 5e352d60-ade6-4fc5-a2f2-039bc61588d0)
     (property "Reference" "H2" (at 19.05 158.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8372,8 +8372,8 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 09e8f1bb-5534-45c2-bb0a-f0adf088fe99))
-    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1baf))
-    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1baf))
+    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1bb0))
+    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1bb0))
     (pin "4" (uuid bc8f5c49-876e-4117-9322-3368a63500a8))
     (instances
       (project "LEDs"
@@ -8744,7 +8744,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 16.51 154.94 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
     (uuid 9fa719ad-1d50-4496-a5af-d8e190480599)
     (property "Reference" "H1" (at 19.05 153.67 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9135,7 +9135,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 16.51 170.18 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
     (uuid beaa951b-5e2f-4041-9493-15f7b47ed0cd)
     (property "Reference" "H4" (at 19.05 168.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10147,7 +10147,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 16.51 175.26 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
     (uuid f0260666-f1bd-47f0-8bc5-81f8d8c0ced2)
     (property "Reference" "H5" (at 19.05 173.99 0)
       (effects (font (size 1.27 1.27)) (justify left))
