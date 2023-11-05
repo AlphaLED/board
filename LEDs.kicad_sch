@@ -7014,7 +7014,7 @@
     (property "Reference" "R5" (at 123.19 34.29 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1k" (at 123.19 36.83 90)
+    (property "Value" "1.2k" (at 123.19 36.83 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 123.19 41.148 90)
@@ -7023,7 +7023,7 @@
     (property "Datasheet" "~" (at 123.19 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C3016283" (at 123.19 39.37 90)
+    (property "LCSC" "C2907081" (at 123.19 39.37 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c88b7488-c343-42a5-8076-8ef786597747))
@@ -8372,8 +8372,8 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 09e8f1bb-5534-45c2-bb0a-f0adf088fe99))
-    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1bb0))
-    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1bb0))
+    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1bb1))
+    (pin "2" (uuid 34e55899-2e76-46ac-aec4-d59c825a1bb1))
     (pin "4" (uuid bc8f5c49-876e-4117-9322-3368a63500a8))
     (instances
       (project "LEDs"
